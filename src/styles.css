@@ -151,8 +151,8 @@ body, html {
 
 .slider-wrapper {
     position: absolute;
-    bottom: 20px; /* Adjusted for more space from the meter */
-    width: 100%; /* Full width to center the slider */
+    bottom: 20px; 
+    width: 100%; 
     display: flex;
     justify-content: center;
 }
@@ -168,7 +168,7 @@ body, html {
 /* Submit Button */
 .submit-button {
     position: absolute;
-    bottom: 10px; /* Position inside the circle */
+    bottom: 10px; 
     padding: 10px;
     border: none;
     border-radius: 20px;
